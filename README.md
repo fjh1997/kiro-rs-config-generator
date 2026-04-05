@@ -24,3 +24,6 @@ python3 gen_kiro_rs_config.py
 
 - 每次运行会重新生成 apiKey，如需固定请手动修改生成后的 config.json
 - kiro-rs 支持自动用 refreshToken 刷新 accessToken
+
+## 社区讨论贴
+- https://linux.do/t/topic/1571986
