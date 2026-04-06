@@ -9,7 +9,7 @@ python3 gen_kiro_rs_config.py
 ```
 
 生成的配置文件在 `~/kiro-rs-config/` 目录下。
-
+可以搭配我这个版本使用[kiro-re-cli](https://github.com/fjh1997/kiro.rs/releases/download/climode/kiro-rs-linux-x64-climode.zip)
 ## 生成的文件
 
 - `config.json` — 服务配置（监听 `0.0.0.0:8990`，自动生成随机 apiKey）
